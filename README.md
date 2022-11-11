@@ -5,7 +5,7 @@ Neset is a network reconnaissance tool, build for network host discovery.
 ## Usage 
 
 ```bash
-	python3 ./neset.py [SUBNET]/[CIDR]
+python3 ./neset.py [SUBNET]/[CIDR]
 ```
 
 
