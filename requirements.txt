@@ -1,0 +1,3 @@
+scapy==2.4.5+g9420c22
+mac-vendor-lookup==0.1.12
+termcolor==1.1.0
